@@ -1,0 +1,10 @@
+[19-Oct-2017 04:25:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in C:\Users\leandro\Pictures\surveillon-master\geral\usuario\insert.php:30
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Pictures\surveillon-master\geral\usuario\insert.php on line 30
+[19-Oct-2017 19:11:15 UTC] PHP Warning:  include(../../conexao/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Pictures\surveillon-master\geral\usuario\index.php on line 65
+[19-Oct-2017 19:11:15 UTC] PHP Warning:  include(): Failed opening '../../conexao/conexao.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\leandro\Pictures\surveillon-master\geral\usuario\index.php on line 65
+[19-Oct-2017 19:11:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\leandro\Pictures\surveillon-master\geral\usuario\index.php:66
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Pictures\surveillon-master\geral\usuario\index.php on line 66

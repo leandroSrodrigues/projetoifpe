@@ -1,0 +1,47 @@
+/*Cor da barra superior*/
+.navbar.navbar-inverse.navbar-fixed-top.navbar-fixed-top.surveillon{
+  background-color:#04B486;
+}
+
+/*Cor do nome do Sistema na Barra superior*/
+.navbar-brand.surveillon{
+		 color:#ffffff;
+}
+
+
+/*cor das LI da barra de navegação */
+.navbar li a, .navbar .navbar-brand {
+      color: #fff !important;
+      font-weight: 900; 
+  }
+
+
+.navbar-right > a.surveillon{
+   color: #ffffff;
+}
+.nav-sidebar > .active.surveillon > a
+/*.nav-sidebar > .active  a,
+.nav-sidebar > .active > a:hover,
+.nav-sidebar > .active > a:focus */{
+  color: #fff;
+  background-color: #5ABEE4;
+}
+
+/* cor do fundo do sidebar */
+.col-sm-3.col-md-2.sidebar{
+	background-color: #1c2833;
+	border-radius: 5px;
+	width: 240px;
+}
+
+/* cor o nome adm no sidebar */
+.l1{
+	font-weight: 900; 
+	color: white;
+  background-color: #04B486;
+  border-radius: 8px;	
+}
+
+
+
+

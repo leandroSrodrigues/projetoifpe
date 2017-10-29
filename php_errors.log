@@ -1,0 +1,152 @@
+[18-Oct-2017 19:53:09 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Pictures\surveillon-master\login.php on line 72
+[18-Oct-2017 19:53:09 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\leandro\Pictures\surveillon-master\login.php on line 72
+[18-Oct-2017 20:03:33 UTC] PHP Parse error:  syntax error, unexpected 'active' (T_STRING), expecting ',' or ';' in C:\Users\leandro\Pictures\surveillon-master\dashboard.php on line 43
+[19-Oct-2017 14:00:37 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Pictures\surveillon-master\login.php on line 72
+[19-Oct-2017 14:00:37 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\leandro\Pictures\surveillon-master\login.php on line 72
+[19-Oct-2017 14:01:11 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Pictures\surveillon-master\login.php on line 72
+[19-Oct-2017 14:01:11 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\leandro\Pictures\surveillon-master\login.php on line 72
+[19-Oct-2017 14:01:20 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Pictures\surveillon-master\login.php on line 72
+[19-Oct-2017 14:01:20 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\leandro\Pictures\surveillon-master\login.php on line 72
+[19-Oct-2017 14:16:14 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Pictures\surveillon-master\login.php on line 89
+[19-Oct-2017 14:16:14 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\leandro\Pictures\surveillon-master\login.php on line 89
+[19-Oct-2017 14:17:33 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Pictures\surveillon-master\login.php on line 89
+[19-Oct-2017 14:17:33 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\leandro\Pictures\surveillon-master\login.php on line 89
+[19-Oct-2017 14:18:11 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Pictures\surveillon-master\login.php on line 89
+[19-Oct-2017 14:18:11 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\leandro\Pictures\surveillon-master\login.php on line 89
+[19-Oct-2017 14:18:28 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Pictures\surveillon-master\login.php on line 89
+[19-Oct-2017 14:18:28 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\leandro\Pictures\surveillon-master\login.php on line 89
+[19-Oct-2017 14:19:30 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Pictures\surveillon-master\login.php on line 89
+[19-Oct-2017 14:19:30 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\leandro\Pictures\surveillon-master\login.php on line 89
+[19-Oct-2017 14:19:40 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Pictures\surveillon-master\login.php on line 89
+[19-Oct-2017 14:19:40 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\leandro\Pictures\surveillon-master\login.php on line 89
+[19-Oct-2017 14:19:44 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Pictures\surveillon-master\login.php on line 89
+[19-Oct-2017 14:19:44 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\leandro\Pictures\surveillon-master\login.php on line 89
+[19-Oct-2017 14:20:14 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Pictures\surveillon-master\login.php on line 89
+[19-Oct-2017 14:20:14 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\leandro\Pictures\surveillon-master\login.php on line 89
+[19-Oct-2017 14:20:28 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Pictures\surveillon-master\login.php on line 89
+[19-Oct-2017 14:20:28 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\leandro\Pictures\surveillon-master\login.php on line 89
+[19-Oct-2017 14:21:10 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Pictures\surveillon-master\login.php on line 70
+[19-Oct-2017 14:21:10 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\leandro\Pictures\surveillon-master\login.php on line 70
+[19-Oct-2017 14:21:39 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Pictures\surveillon-master\login.php on line 78
+[19-Oct-2017 14:21:39 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\leandro\Pictures\surveillon-master\login.php on line 78
+[19-Oct-2017 14:22:42 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Pictures\surveillon-master\login.php on line 78
+[19-Oct-2017 14:22:42 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\leandro\Pictures\surveillon-master\login.php on line 78
+[19-Oct-2017 14:22:51 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Pictures\surveillon-master\login.php on line 78
+[19-Oct-2017 14:22:51 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\leandro\Pictures\surveillon-master\login.php on line 78
+[19-Oct-2017 14:23:11 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Pictures\surveillon-master\login.php on line 78
+[19-Oct-2017 14:23:11 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\leandro\Pictures\surveillon-master\login.php on line 78
+[19-Oct-2017 14:23:37 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Pictures\surveillon-master\login.php on line 78
+[19-Oct-2017 14:23:37 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\leandro\Pictures\surveillon-master\login.php on line 78
+[19-Oct-2017 14:23:39 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Pictures\surveillon-master\login.php on line 78
+[19-Oct-2017 14:23:39 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\leandro\Pictures\surveillon-master\login.php on line 78
+[19-Oct-2017 14:24:02 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in C:\Users\leandro\Pictures\surveillon-master\login.php on line 78
+[19-Oct-2017 14:24:02 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\leandro\Pictures\surveillon-master\login.php on line 78
+[19-Oct-2017 19:46:05 UTC] PHP Parse error:  syntax error, unexpected '$Email' (T_VARIABLE) in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 4
+[19-Oct-2017 19:47:07 UTC] PHP Parse error:  syntax error, unexpected '$Email' (T_VARIABLE) in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 4
+[19-Oct-2017 19:47:13 UTC] PHP Parse error:  syntax error, unexpected '$Email' (T_VARIABLE) in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 4
+[19-Oct-2017 19:50:47 UTC] PHP Parse error:  syntax error, unexpected '$Email' (T_VARIABLE) in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 4
+[19-Oct-2017 19:52:24 UTC] PHP Warning:  include(../conexao/conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 2
+[19-Oct-2017 19:52:24 UTC] PHP Warning:  include(): Failed opening '../conexao/conexao.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 2
+[19-Oct-2017 19:52:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\leandro\Pictures\surveillon-master\logon.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 7
+[19-Oct-2017 19:53:23 UTC] PHP Warning:  include(../conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 2
+[19-Oct-2017 19:53:23 UTC] PHP Warning:  include(): Failed opening '../conexao.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 2
+[19-Oct-2017 19:53:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\leandro\Pictures\surveillon-master\logon.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 7
+[19-Oct-2017 19:53:38 UTC] PHP Warning:  include(conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 2
+[19-Oct-2017 19:53:38 UTC] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 2
+[19-Oct-2017 19:53:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\leandro\Pictures\surveillon-master\logon.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 7
+[19-Oct-2017 19:54:26 UTC] PHP Warning:  require(conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 7
+[19-Oct-2017 19:54:26 UTC] PHP Fatal error:  require(): Failed opening required 'conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 7
+[19-Oct-2017 19:56:39 UTC] PHP Warning:  require(conexao.php): failed to open stream: No such file or directory in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 7
+[19-Oct-2017 19:56:39 UTC] PHP Fatal error:  require(): Failed opening required 'conexao.php' (include_path='.;C:\php\pear') in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 7
+[19-Oct-2017 19:57:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in C:\Users\leandro\Pictures\surveillon-master\logon.php:12
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 12
+[19-Oct-2017 19:58:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in C:\Users\leandro\Pictures\surveillon-master\logon.php:12
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 12
+[19-Oct-2017 19:59:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in C:\Users\leandro\Pictures\surveillon-master\logon.php:12
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 12
+[19-Oct-2017 19:59:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in C:\Users\leandro\Pictures\surveillon-master\logon.php:12
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 12
+[19-Oct-2017 20:01:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in C:\Users\leandro\Pictures\surveillon-master\logon.php:12
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 12
+[19-Oct-2017 20:02:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in C:\Users\leandro\Pictures\surveillon-master\logon.php:12
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 12
+[19-Oct-2017 20:02:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in C:\Users\leandro\Pictures\surveillon-master\logon.php:12
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 12
+[19-Oct-2017 20:11:37 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 25
+[19-Oct-2017 20:11:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in C:\Users\leandro\Pictures\surveillon-master\logon.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 15
+[19-Oct-2017 20:13:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in C:\Users\leandro\Pictures\surveillon-master\logon.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 15
+[19-Oct-2017 20:13:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in C:\Users\leandro\Pictures\surveillon-master\logon.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 15
+[19-Oct-2017 20:46:56 UTC] PHP Warning:  password_hash() expects at least 2 parameters, 1 given in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 9
+[19-Oct-2017 20:48:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function make_hash() in C:\Users\leandro\Pictures\surveillon-master\logon.php:9
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 9
+[19-Oct-2017 20:50:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function make_hash() in C:\Users\leandro\Pictures\surveillon-master\logon.php:9
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 9
+[19-Oct-2017 21:04:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function make_hash() in C:\Users\leandro\Pictures\surveillon-master\logon.php:9
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 9
+[19-Oct-2017 21:09:55 UTC] PHP Warning:  password_hash() expects at least 2 parameters, 1 given in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 9
+[19-Oct-2017 21:10:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function senha_hash() in C:\Users\leandro\Pictures\surveillon-master\logon.php:9
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 9
+[19-Oct-2017 21:11:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function senha_hash() in C:\Users\leandro\Pictures\surveillon-master\logon.php:9
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 9
+[20-Oct-2017 02:56:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in C:\Users\leandro\Pictures\surveillon-master\logon.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 15
+[20-Oct-2017 02:57:32 UTC] PHP Fatal error:  Uncaught RuntimeException: Usuário/Senha não confere in C:\Users\leandro\Pictures\surveillon-master\logon.php:18
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 18
+[20-Oct-2017 03:03:18 UTC] PHP Fatal error:  Uncaught RuntimeException: Usuário/Senha não confere in C:\Users\leandro\Pictures\surveillon-master\logon.php:18
+Stack trace:
+#0 {main}
+  thrown in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 18
+[24-Oct-2017 16:00:25 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 18
+[24-Oct-2017 16:00:48 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 18
+[24-Oct-2017 16:02:45 UTC] PHP Warning:  password_verify() expects exactly 2 parameters, 3 given in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 16
+[25-Oct-2017 01:34:08 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 22
+[25-Oct-2017 01:34:31 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 22
+[25-Oct-2017 01:34:36 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 22
+[25-Oct-2017 01:34:58 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 22
+[25-Oct-2017 01:35:13 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in C:\Users\leandro\Pictures\surveillon-master\logon.php on line 22
