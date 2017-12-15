@@ -1,0 +1,21 @@
+
+
+
+
+create table Venda (
+
+int codigo,
+
+varchar cliente,
+
+double totalVenda,
+
+date dataPedido,
+
+varchar situacao,
+
+varchar enderecoEntrega,
+double tipoPagamento;
+
+
+);

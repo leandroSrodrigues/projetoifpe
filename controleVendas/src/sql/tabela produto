@@ -1,0 +1,8 @@
+create table produto(
+
+codigo_produto int not null,
+unidade char(3),
+descricao_produto char(30),
+val_unit money,
+primary key(codigo_produto)
+);

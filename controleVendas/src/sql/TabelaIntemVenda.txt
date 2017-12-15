@@ -1,0 +1,16 @@
+
+
+
+create table ItemVenda (
+
+ int codigo ,
+  
+primary key venda ,
+ 
+ primary key produto,
+  
+ int quantidade ;
+
+
+
+) 
